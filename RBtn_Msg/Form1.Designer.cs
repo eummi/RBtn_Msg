@@ -59,7 +59,7 @@
             this.gpOption1.Controls.Add(this.rbOk);
             this.gpOption1.Location = new System.Drawing.Point(12, 12);
             this.gpOption1.Name = "gpOption1";
-            this.gpOption1.Size = new System.Drawing.Size(97, 100);
+            this.gpOption1.Size = new System.Drawing.Size(112, 100);
             this.gpOption1.TabIndex = 1;
             this.gpOption1.TabStop = false;
             this.gpOption1.Text = "Type";
@@ -91,9 +91,9 @@
             this.gpOption2.Controls.Add(this.rbQuestion);
             this.gpOption2.Controls.Add(this.rbInformation);
             this.gpOption2.Controls.Add(this.rbError);
-            this.gpOption2.Location = new System.Drawing.Point(115, 13);
+            this.gpOption2.Location = new System.Drawing.Point(130, 12);
             this.gpOption2.Name = "gpOption2";
-            this.gpOption2.Size = new System.Drawing.Size(103, 100);
+            this.gpOption2.Size = new System.Drawing.Size(124, 100);
             this.gpOption2.TabIndex = 2;
             this.gpOption2.TabStop = false;
             this.gpOption2.Text = "Icon";
@@ -135,7 +135,7 @@
             // 
             this.btnShow.Location = new System.Drawing.Point(13, 119);
             this.btnShow.Name = "btnShow";
-            this.btnShow.Size = new System.Drawing.Size(205, 74);
+            this.btnShow.Size = new System.Drawing.Size(241, 64);
             this.btnShow.TabIndex = 3;
             this.btnShow.Text = "Show";
             this.btnShow.UseVisualStyleBackColor = true;
@@ -144,7 +144,7 @@
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(7F, 12F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(228, 205);
+            this.ClientSize = new System.Drawing.Size(266, 193);
             this.Controls.Add(this.btnShow);
             this.Controls.Add(this.gpOption2);
             this.Controls.Add(this.gpOption1);
